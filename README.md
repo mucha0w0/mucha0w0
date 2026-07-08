@@ -1,16 +1,21 @@
-## Hi there 👋
+# 
 
-<!--
-**mucha0w0/mucha0w0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="right">
+  <code>Available for new opportunities</code>
+</p>
 
-Here are some ideas to get you started:
+# Mucha0w0
+**Student**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## ── Profile
+
+現在、情報工学系の高専でプログラミングを学んでいます
+コーディングの知識はほぼゼロなので、AI使って遊んでます
+何もかもわからん
+
+- 📍 **Based in:** Aichi, Japan (UTC+9)
+
+---

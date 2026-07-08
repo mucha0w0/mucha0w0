@@ -6,4 +6,11 @@
   
 - 📍 **Based in:** Aichi, Japan (UTC+9)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mucha0w0&theme=minimal&hide_border=true&hide_title=true&area=false&line=cccccc&point=cccccc)
+<picture>
+  <!-- ダークモード用の設定（背景に溶け込むグレーの細線） -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mucha0w0&theme=github-dark&hide_border=true&hide_title=true&area=false&line=666666&point=888888&color=888888">
+  <!-- ライトモード用の設定（背景に溶け込む薄いグレーの細線） -->
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mucha0w0&theme=github&hide_border=true&hide_title=true&area=false&line=cccccc&point=aaaaaa&color=aaaaaa">
+  <!-- フォールバック用 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mucha0w0&theme=github-dark&hide_border=true&hide_title=true&area=false&line=666666&point=888888&color=888888" alt="Activity Graph" width="100%">
+</picture>

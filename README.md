@@ -4,10 +4,6 @@
   <code>Available for new opportunities</code>
 </p>
 
-# Mucha0w0
-**Student**
-
-
 ---
 
 ## ── Profile

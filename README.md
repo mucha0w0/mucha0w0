@@ -4,8 +4,6 @@
   <code>Available for new opportunities</code>
 </p>
 
----
-
 ## ── Profile
 
 現在、情報工学系の高専でプログラミングを学んでいます
@@ -13,5 +11,3 @@
 何もかもわからん
 
 - 📍 **Based in:** Aichi, Japan (UTC+9)
-
----
